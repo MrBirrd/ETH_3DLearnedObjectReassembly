@@ -2,6 +2,7 @@
 Group 19: Mathias Vogel, Julia Bazińska, Katarzyna Krasnopolska, Davide Staub
 Project as a part of 3D Vision course.
 
+![plot](Poster.png)
 ## Quickstart
 Tested on Ubuntu 18.06 with Python 3.7.5.
 
